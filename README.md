@@ -1,18 +1,13 @@
-# NBAStatsWebsite
+# NBA-Statistics
 This website is a side project made for practicing using different frameworks and API's.
 
 # Functionality
--View Players (historical and current)
+-View current players along with their team, hieght, and position
 
--View Teams
+-View teams
 
--View Stats (current)
+-View games from the 2021-2022 season (will be updated every season)
 
-# API and Frameworks
--JavaScript
-
--HTML5
-
--CSS
-
+# API/Frameworks
+-JavaScript,HTML5,CSS
 -BDL API (https://www.balldontlie.io/#introduction)
